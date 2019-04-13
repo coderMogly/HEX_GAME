@@ -1,5 +1,5 @@
 //Author Anirudh Yadav
-//Coursera Assignment Game of HEX (you win or you die)
+//Game of HEX (you win or you die)
 
 various classes
 
